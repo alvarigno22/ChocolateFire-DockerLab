@@ -255,7 +255,7 @@ Una vez, que obtenemos la version de OpenFire 4.7.4, podemos buscar si tiene alg
 
 ![Captura de pantalla del resultado de búsqueda](images/Image_step_04.png)
 
-Dentro del resuñtado obtenido podemos ver que existe el "CVE-2023-32315", que tiene relación a un RCE (Remote Code Execution).
+Dentro del resultado obtenido podemos ver que existe el "CVE-2023-32315", que tiene relación a un RCE (Remote Code Execution).
 
 https://www.rapid7.com/db/modules/exploit/multi/http/openfire_auth_bypass_rce_cve_2023_32315/
 
